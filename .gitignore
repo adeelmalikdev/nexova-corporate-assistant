@@ -1,0 +1,31 @@
+# Secrets and local config
+.env
+
+# Virtual environments
+.venv/
+venv/
+
+# Python cache and build artifacts
+__pycache__/
+*.pyc
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Databases and generated stores
+*.db
+*.sqlite
+chroma_store/
+
+# Tooling caches
+.cache/
+.pytest_cache/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

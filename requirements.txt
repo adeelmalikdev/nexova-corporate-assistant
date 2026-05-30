@@ -1,0 +1,17 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+sentence-transformers==3.3.1
+chromadb==0.5.20
+pymupdf==1.25.1
+pdfplumber==0.11.5
+python-multipart==0.0.20
+pydantic-settings==2.7.1
+httpx==0.28.1
+python-dotenv==1.0.1
+sqlalchemy==2.0.36
+aiosqlite==0.20.0
+rank_bm25==0.2.2
+numpy==2.1.3
+aiofiles==24.1.0
